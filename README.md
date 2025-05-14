@@ -1,8 +1,5 @@
 <h1> 👋 Hi, I’m Taif </h1>
-<hr />
-
 - 📫 : taif.eid.98@gmail.com
-
 <hr>
 
 <br>
