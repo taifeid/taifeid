@@ -1,11 +1,6 @@
 <h1> 👋 Hi, I’m Taif </h1>
 - 📫 : taif.eid.98@gmail.com
 <hr>
-
-<br>
-
-<br>
-
   <h3>Connect with me:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
