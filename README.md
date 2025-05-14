@@ -1,10 +1,7 @@
 <h1> 👋 Hi, I’m Taif </h1>
 <hr />
-<h3>About me: 😊</h3>
 
-- 💻 I’m interested in Web Development
-- 🌱 I’m currently learning PHP , related freamwork and improving my self in front-end 😍
-- 📫 My email address : taif.eid.98@gmail.com
+- 📫 : taif.eid.98@gmail.com
 
 <hr>
 
